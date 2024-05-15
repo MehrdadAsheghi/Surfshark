@@ -173,23 +173,6 @@
     },
     {
       "type": "wireguard",
-      "tag": "FRANKFURT",
-      "server": "de-fra.prod.surfshark.com",
-      "server_port": 51820,
-
-      "local_address": [
-        "10.14.0.2/16",
-        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
-      ],
-      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
-      "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
-      "reserved": "AAAA",
-
-      "mtu": 1280,
-      "fake_packets": "1-2"
-    },
-    {
-      "type": "wireguard",
       "tag": "FRANKFURT-2",
       "server": "146.70.178.100",
       "server_port": 51820,
