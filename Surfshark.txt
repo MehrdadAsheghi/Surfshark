@@ -20,6 +20,23 @@
     },
     {
       "type": "wireguard",
+      "tag": "sofia-1",
+      "server": "37.19.203.76",
+      "server_port": 51820,
+
+      "local_address": [
+        "10.14.0.2/16",
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
+      ],
+      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
+      "peer_public_key": "LQFiCiZcPEoYasKRLbCfXp2fYYsj8wiMr/L9u6hYqSo=",
+      "reserved": "AAAA",
+
+      "mtu": 1280,
+      "fake_packets": "1-5"
+    },
+    {
+      "type": "wireguard",
       "tag": "Helsinki",
       "server": "193.56.113.36",
       "server_port": 51820,
