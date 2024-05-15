@@ -9,7 +9,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
@@ -26,7 +26,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "+nv/Z8I2VS0eRdZwkpQW3U9RmsboTz2MUF94jVg5w10=",
@@ -43,7 +43,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "4Exn42t337sxoBzYHxgmDBNq+AhTYz6nvEj98TWY50Y=",
@@ -60,7 +60,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "4Exn42t337sxoBzYHxgmDBNq+AhTYz6nvEj98TWY50Y=",
@@ -77,7 +77,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "Lxg3jAOKcBA9tGBtB6vEWMFl5LUEB6AwOpuniYn1cig=",
@@ -94,7 +94,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "Lxg3jAOKcBA9tGBtB6vEWMFl5LUEB6AwOpuniYn1cig=",
@@ -111,7 +111,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "Lxg3jAOKcBA9tGBtB6vEWMFl5LUEB6AwOpuniYn1cig=",
@@ -128,7 +128,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "Lxg3jAOKcBA9tGBtB6vEWMFl5LUEB6AwOpuniYn1cig=",
@@ -145,7 +145,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "pXfZi2vsdd88qrnqh+bwqHG4IYD42pj3T1wCm3PIGmw=",
@@ -162,7 +162,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "pXfZi2vsdd88qrnqh+bwqHG4IYD42pj3T1wCm3PIGmw=",
@@ -179,14 +179,14 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "1-5"
+      "fake_packets": "1-2"
     },
     {
       "type": "wireguard",
@@ -196,7 +196,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
@@ -213,7 +213,7 @@
 
      "local_address": [
           "10.14.0.2/16",
-          "2606:4700:110:8ee1:7ce9:a37:b25:5299/128"
+          "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "6dZGkg0iAMgQuOCGknAgBAqDEeJeBQ4Of5eblO4aNC8=",
@@ -230,7 +230,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "6dZGkg0iAMgQuOCGknAgBAqDEeJeBQ4Of5eblO4aNC8=",
@@ -247,7 +247,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
@@ -264,7 +264,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
@@ -281,7 +281,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "iBJRXLZwXuWWrOZE1ZrAXEKMgV/z0WjG0Tks5rnWLBI=",
@@ -298,7 +298,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "4Exn42t337sxoBzYHxgmDBNq+AhTYz6nvEj98TWY50Y=",
@@ -315,7 +315,7 @@
 
       "local_address": [
         "10.14.0.2/16",
-        "2606:4700:110:81ce:ac8:6185:22b4:2e93/128"
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "oUFRc+2emXgogDVWnJF4RAzr72PyafCzMVeQOgG92lY=",
