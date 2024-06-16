@@ -411,7 +411,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "FRANKFURT-1",
+      "tag": "FRANKFURT--1",
       "server": "146.70.178.243",
       "server_port": 51820,
 
@@ -428,7 +428,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "UAE",
+      "tag": "UAE--",
       "server": "146.70.102.195",
       "server_port": 51820,
 
@@ -445,7 +445,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Sweden",
+      "tag": "Sweden--",
       "server": "146.70.21.173",
       "server_port": 51820,
 
@@ -462,7 +462,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Spain",
+      "tag": "Spain--",
       "server": "212.102.48.10",
       "server_port": 51820,
 
@@ -479,7 +479,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Romania",
+      "tag": "Romania--",
       "server": "217.148.143.197",
       "server_port": 51820,
 
@@ -496,7 +496,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Estonia",
+      "tag": "Estonia--",
       "server": "185.174.159.105",
       "server_port": 51820,
 
@@ -513,7 +513,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Berlin",
+      "tag": "Berlin--",
       "server": "217.138.216.61",
       "server_port": 51820,
 
@@ -530,7 +530,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Moldova-2",
+      "tag": "Moldova--2",
       "server": "185.181.229.229",
       "server_port": 51820,
 
@@ -547,7 +547,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Moldova-1",
+      "tag": "Moldova--1",
       "server": "178.175.128.235",
       "server_port": 51820,
 
@@ -564,7 +564,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Vienna",
+      "tag": "Vienna--",
       "server": "37.19.195.89",
       "server_port": 51820,
 
@@ -581,7 +581,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Belgium",
+      "tag": "Belgium--",
       "server": "146.70.123.43",
       "server_port": 51820,
 
@@ -598,7 +598,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Amsterdam-1",
+      "tag": "Amsterdam--1",
       "server": "143.244.42.81",
       "server_port": 51820,
 
@@ -615,7 +615,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Amsterdam-2",
+      "tag": "Amsterdam--2",
       "server": "143.244.42.69",
       "server_port": 51820,
 
@@ -632,7 +632,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Amsterdam-3",
+      "tag": "Amsterdam--3",
       "server": "89.46.223.185",
       "server_port": 51820,
 
@@ -649,7 +649,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Oslo-1",
+      "tag": "Oslo--1",
       "server": "146.70.103.227",
       "server_port": 51820,
 
@@ -666,7 +666,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "Oslo-2",
+      "tag": "Oslo--2",
       "server": "185.253.97.93",
       "server_port": 51820,
 
@@ -683,7 +683,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "FRANKFURT-2",
+      "tag": "FRANKFURT--2",
       "server": "146.70.178.100",
       "server_port": 51820,
 
@@ -700,7 +700,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "FRANKFURT-3",
+      "tag": "FRANKFURT--3",
       "server": "146.70.102.203",
       "server_port": 51820,
 
@@ -717,7 +717,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "FRANKFURT-4",
+      "tag": "FRANKFURT--4",
       "server": "146.70.102.197",
       "server_port": 51820,
 
@@ -734,7 +734,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "FRANKFURT-5",
+      "tag": "FRANKFURT--5",
       "server": "149.102.230.132",
       "server_port": 51820,
 
@@ -751,7 +751,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "FRANKFURT-6",
+      "tag": "FRANKFURT--6",
       "server": "138.199.19.179",
       "server_port": 51820,
 
@@ -768,7 +768,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "LONDON-1",
+      "tag": "LONDON--1",
       "server": "213.166.86.40",
       "server_port": 51820,
 
@@ -785,7 +785,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "MOLDOVA-1",
+      "tag": "MOLDOVA--1",
       "server": "185.181.230.104",
       "server_port": 51820,
 
@@ -802,7 +802,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "STOCKHOLM-1",
+      "tag": "STOCKHOLM--1",
       "server": "185.76.9.41",
       "server_port": 51820,
 
