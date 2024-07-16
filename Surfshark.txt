@@ -16,7 +16,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -33,7 +33,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -50,7 +50,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -67,7 +67,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -84,7 +84,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -101,7 +101,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -118,7 +118,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -135,7 +135,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
    	{
       "type": "wireguard",
@@ -152,7 +152,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -169,7 +169,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -186,7 +186,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
    	{
       "type": "wireguard",
@@ -203,7 +203,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
    	{
       "type": "wireguard",
@@ -220,7 +220,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
    	{
       "type": "wireguard",
@@ -237,7 +237,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
    	{
       "type": "wireguard",
@@ -254,7 +254,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
    	{
       "type": "wireguard",
@@ -271,7 +271,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
    	{
       "type": "wireguard",
@@ -288,7 +288,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -305,7 +305,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -322,7 +322,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -339,7 +339,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -356,7 +356,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -373,7 +373,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -390,7 +390,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -407,7 +407,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
+      "fake_packets": "1-1"
     },
 	{
       "type": "wireguard",
@@ -713,109 +713,7 @@
       "reserved": "AAAA",
 
       "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-	{
-      "type": "wireguard",
-      "tag": "FRANKFURT--4",
-      "server": "146.70.102.197",
-      "server_port": 51820,
-
-      "local_address": [
-        "10.14.0.2/16",
-        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
-      ],
-      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
-      "peer_public_key": "6dZGkg0iAMgQuOCGknAgBAqDEeJeBQ4Of5eblO4aNC8=",
-      "reserved": "AAAA",
-
-      "mtu": 1280,
-      "fake_packets": "2-7"
-    },
-	{
-      "type": "wireguard",
-      "tag": "FRANKFURT--5",
-      "server": "149.102.230.132",
-      "server_port": 51820,
-
-      "local_address": [
-        "10.14.0.2/16",
-        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
-      ],
-      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
-      "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
-      "reserved": "AAAA",
-
-      "mtu": 1280,
-      "fake_packets": "2-7"
-    },
-	{
-      "type": "wireguard",
-      "tag": "FRANKFURT--6",
-      "server": "138.199.19.179",
-      "server_port": 51820,
-
-      "local_address": [
-        "10.14.0.2/16",
-        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
-      ],
-      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
-      "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
-      "reserved": "AAAA",
-
-      "mtu": 1280,
-      "fake_packets": "2-7"
-    },
-	{
-      "type": "wireguard",
-      "tag": "LONDON--1",
-      "server": "213.166.86.40",
-      "server_port": 51820,
-
-      "local_address": [
-        "10.14.0.2/16",
-        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
-      ],
-      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
-      "peer_public_key": "iBJRXLZwXuWWrOZE1ZrAXEKMgV/z0WjG0Tks5rnWLBI=",
-      "reserved": "AAAA",
-
-      "mtu": 1280,
-      "fake_packets": "2-7"
-    },
-	{
-      "type": "wireguard",
-      "tag": "MOLDOVA--1",
-      "server": "185.181.230.104",
-      "server_port": 51820,
-
-      "local_address": [
-        "10.14.0.2/16",
-        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
-      ],
-      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
-      "peer_public_key": "4Exn42t337sxoBzYHxgmDBNq+AhTYz6nvEj98TWY50Y=",
-      "reserved": "AAAA",
-
-      "mtu": 1280,
-      "fake_packets": "2-7"
-    },
-	{
-      "type": "wireguard",
-      "tag": "STOCKHOLM--1",
-      "server": "185.76.9.41",
-      "server_port": 51820,
-
-      "local_address": [
-        "10.14.0.2/16",
-        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
-      ],
-      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
-      "peer_public_key": "oUFRc+2emXgogDVWnJF4RAzr72PyafCzMVeQOgG92lY=",
-      "reserved": "AAAA",
-
-      "mtu": 1280,
-      "fake_packets": "2-7"
+      "fake_packets": "1-1"
     }
   ]
 }
