@@ -404,7 +404,7 @@
    	{
       "type": "wireguard",
       "tag": "FRANKFURT-2",
-      "server": "146.70.178.100",
+      "server": "185.104.184.203",
       "server_port": 51820,
 
       "local_address": [
@@ -424,7 +424,7 @@
 	{
       "type": "wireguard",
       "tag": "FRANKFURT-3",
-      "server": "146.70.102.203",
+      "server": "146.70.178.117",
       "server_port": 51820,
 
      "local_address": [
@@ -432,7 +432,7 @@
           "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
-      "peer_public_key": "6dZGkg0iAMgQuOCGknAgBAqDEeJeBQ4Of5eblO4aNC8=",
+      "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
       "reserved": "AAAA",
 
       "mtu": 1200,
