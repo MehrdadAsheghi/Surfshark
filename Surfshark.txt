@@ -16,10 +16,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -36,10 +36,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -56,10 +56,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -76,10 +76,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -96,10 +96,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -116,10 +116,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -136,10 +136,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -156,10 +156,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -176,10 +176,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -196,10 +196,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -216,10 +216,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -236,10 +236,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -256,10 +256,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -276,10 +276,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -296,10 +296,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -316,10 +316,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -336,10 +336,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -356,10 +356,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -376,10 +376,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -396,10 +396,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
    	{
       "type": "wireguard",
@@ -416,10 +416,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -436,10 +436,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -456,10 +456,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -476,10 +476,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -496,10 +496,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -516,10 +516,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -536,10 +536,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     },
 	{
       "type": "wireguard",
@@ -556,10 +556,10 @@
       "reserved": "AAAA",
 
       "mtu": 1200,
-      "fake_packets": "40-80",
-      "fake_packets_size": "40-100",
-      "fake_packets_delay": "10-100",
-      "fake_packets_mode": "m3"
+      "fake_packets": "0-80",
+      "fake_packets_size": "0-100",
+      "fake_packets_delay": "0-100",
+      "fake_packets_mode": "m6"
     }
   ]
 }
