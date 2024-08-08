@@ -21,6 +21,46 @@
       "fake_packets_delay": "10-100",
       "fake_packets_mode": "m3"
     },
+   	{
+      "type": "wireguard",
+      "tag": "Dubai",
+      "server": "146.70.102.181",
+      "server_port": 51820,
+
+      "local_address": [
+        "10.14.0.2/16",
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
+      ],
+      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
+      "peer_public_key": "6dZGkg0iAMgQuOCGknAgBAqDEeJeBQ4Of5eblO4aNC8=",
+      "reserved": "AAAA",
+
+      "mtu": 1200,
+      "fake_packets": "40-80",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "10-100",
+      "fake_packets_mode": "m3"
+    },
+   	{
+      "type": "wireguard",
+      "tag": "TURKEY-1",
+      "server": "45.136.155.55",
+      "server_port": 51820,
+
+      "local_address": [
+        "10.14.0.2/16",
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
+      ],
+      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
+      "peer_public_key": "sF/TlxU9XaDN3QQBT/lu2Pw9qpD3XpDqLBfInBtff2A=",
+      "reserved": "AAAA",
+
+      "mtu": 1200,
+      "fake_packets": "40-80",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "10-100",
+      "fake_packets_mode": "m3"
+    },
 	{
       "type": "wireguard",
       "tag": "UAE",
@@ -33,6 +73,46 @@
       ],
       "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
       "peer_public_key": "6dZGkg0iAMgQuOCGknAgBAqDEeJeBQ4Of5eblO4aNC8=",
+      "reserved": "AAAA",
+
+      "mtu": 1200,
+      "fake_packets": "40-80",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "10-100",
+      "fake_packets_mode": "m3"
+    },
+   	{
+      "type": "wireguard",
+      "tag": "FRANKFURT-4",
+      "server": "138.199.19.164",
+      "server_port": 51820,
+
+      "local_address": [
+        "10.14.0.2/16",
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
+      ],
+      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
+      "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
+      "reserved": "AAAA",
+
+      "mtu": 1200,
+      "fake_packets": "40-80",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "10-100",
+      "fake_packets_mode": "m3"
+    },
+   	{
+      "type": "wireguard",
+      "tag": "FRANKFURT-8",
+      "server": "188.95.65.40",
+      "server_port": 51820,
+
+      "local_address": [
+        "10.14.0.2/16",
+        "0000:0000:0000:0000:0000:ffff:0a0e:0002/64"
+      ],
+      "private_key": "IMvMWAx/+JmIoU9ECNdj9+wNRkqOux3n9GUHPIkFjnA=",
+      "peer_public_key": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
       "reserved": "AAAA",
 
       "mtu": 1200,
@@ -363,7 +443,7 @@
     },
 	{
       "type": "wireguard",
-      "tag": "FRANKFURT-4",
+      "tag": "FRANKFURT-7",
       "server": "146.70.102.197",
       "server_port": 51820,
 
